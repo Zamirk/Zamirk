@@ -7,6 +7,6 @@ Hi there 👋, I am Samir!
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://www.twitter.com/zamirzamirzamir)](https://www.twitter.com/zamirzamirzamir/)
 
 • Software Enginner at VTSL ☎️ 📊 📞 📈  
-• 📚 Currently working with Scala.  ❤️ Functional Programming λ ❤️
+• 📚 Currently working with Scala.  ❤️ Functional Programming λ ❤️ 
 • 🌎 Fully remote. Currently based in London. 🇬🇧 Previously Ireland 🇮🇪
 • 📫 How to reach me: samir.kahvedzic1@gmail.com
