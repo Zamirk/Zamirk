@@ -14,4 +14,4 @@ Hi there 👋, I am Samir!
 • 📫 How to reach me: samir.kahvedzic1@gmail.com           
 
 
-Some fun projects ive worked on at VTSL https://tinyurl.copm/VTSLProjects                               
+Some fun projects ive worked on at VTSL https://tinyurl.com/VTSLProjects                               
