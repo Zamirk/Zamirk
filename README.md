@@ -12,3 +12,6 @@ Hi there 👋, I am Samir!
 • 📚 Currently working with Scala.  ❤️ Functional Programming λ ❤️            
 • 🌎 Fully remote. Currently based in London. 🇬🇧 Previously Ireland 🇮🇪            
 • 📫 How to reach me: samir.kahvedzic1@gmail.com           
+
+
+Some fun projects ive worked on at VTSL https://tinyurl.copm/VTSLProjects                               
