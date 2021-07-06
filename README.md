@@ -1,5 +1,5 @@
 
-Hi there 👋, I am Samir!   
+Hi there 👋, I am Samir!  ![](https://komarev.com/ghpvc/?username=Zamirk)
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.weltonf@gmail.com)](mailto:samir.kahvedzic1@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/samirkahvedzic/)](https://www.linkedin.com/in/samirkahvedzic/)
