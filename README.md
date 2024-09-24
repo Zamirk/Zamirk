@@ -30,4 +30,4 @@ Fun ScalaJs projects I've worked on at VTSL https://tinyurl.com/VTSLProjects
 </p>
 
 
-     `scala`       |     <img src="Scala-Dark.svg" width="48"> 
+<img src="Scala-Dark.svg" width="48"> 
