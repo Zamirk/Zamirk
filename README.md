@@ -16,3 +16,19 @@ Hi there 👋, My name is Samir!
 • 📫 How to reach me: samir.kahvedzic1@gmail.com           
 
 Fun ScalaJs projects I've worked on at VTSL https://tinyurl.com/VTSLProjects                               
+
+<br>
+<h1 align="left"><u>Github stats</u></h1>
+
+<p align="center" style="width: 100%;">
+    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/Zamirk/Zamirk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Zamirk" />
+</p>
+
+<p align="center" style="width: 100%;">
+    <span style="width: 100%;">
+        <img align="center" style="width: 49%;" src="https://github-readme-streak-stats.herokuapp.com/?user=Zamirk&theme=onedark" alt="Zamirk" />
+        <img align="center" style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=Zamirk&show_icons=true&locale=en&theme=onedark" alt="Zamirk" />
+    </span>
+</p>
+
+
