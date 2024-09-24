@@ -9,14 +9,12 @@ Hi there 👋, My name is Samir!
 ![](https://komarev.com/ghpvc/?username=Zamirk)
 
 
-
 • Software Engineer at Xebia Functional 📈             
 • 📚 Currently working with Scala.  ❤️ Functional Programming λ ❤️            
 • 🌎 Fully remote. Currently based in London. 🇬🇧 Previously Ireland 🇮🇪            
 • 📫 How to reach me: samir.kahvedzic1@gmail.com           
 
 Fun ScalaJs projects I've worked on at VTSL https://tinyurl.com/VTSLProjects                               
-
 <br>
 <h1 align="left"><u>Github stats</u></h1>
 
