@@ -1,8 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
-<div style="position: absolute; top: 105px; right: 50px;">
-    <img src="icons/scala-dark.svg" width="35" alt="Scala Logo">
-</div>
+[//]: # (<div style="position: absolute; top: 105px; right: 50px;">)
+[//]: # (    <img src="icons/scala-dark.svg" width="35" alt="Scala Logo">)
+[//]: # (</div>)
 
 <div align="center">
 
