@@ -18,7 +18,8 @@
 
 • 📈 Senior Software Engineer at Xebia Functional  
 • 📚 Working with Scala. Passionate about Functional Programming λ  
-• 🌎 Fully remote
+• 🌎 Fully remote 
+
 • 📫 Reach me: [LinkedIn](https://www.linkedin.com) | samir.kahvedzic1@gmail.com
 
 For Scala.js fans, check out what my team built at VTSL: https://tinyurl.com/VTSLProjects.
