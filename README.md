@@ -16,7 +16,7 @@
 
 # Hi there! I'm Samir  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
-• 📈 Senior Software Engineer at Xebia Functional  
+• 📈 Senior Software Engineer at Xebia  
 • 📚 Working with Scala. Passionate about Functional Programming λ  
 • 🌎 Fully remote                                           
 • 📫 Reach me: [LinkedIn](https://www.linkedin.com) | samir.kahvedzic1@gmail.com
