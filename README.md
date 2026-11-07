@@ -31,9 +31,11 @@ For Scala.js fans, check out what my team built at VTSL: https://tinyurl.com/VTS
 
 <div align="center">
 
+<!-- GitHub statistics cards temporarily hidden.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zamirk&theme=highcontrast&hide_border=true" alt="GitHub Profile Summary">
 
   <img src="https://streak-stats.demolab.com/?user=Zamirk&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+-->
 
 <h3> 🚀 <a href="https://github.com/Zamirk">Samir</a> | The future is ours to create <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="60px" height="30px"></h3> 
 
