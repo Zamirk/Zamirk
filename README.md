@@ -8,7 +8,6 @@
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.weltonf@gmail.com)](mailto:samir.kahvedzic1@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/samirkahvedzic/)](https://www.linkedin.com/in/samir-kahvedzic/)
 [![Hackerrank Badge](https://img.shields.io/badge/-hackerrank-1da1f2?style=flat-square&labelColor=1da1f2&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/Samir_Kahvedzic?hr_r=1)](https://www.hackerrank.com/Samir_Kahvedzic?hr_r=1)
 ![](https://komarev.com/ghpvc/?username=Zamirk)
@@ -19,7 +18,7 @@
 • 📈 Senior Software Engineer at Xebia  
 • 📚 Working with Scala. Passionate about Functional Programming λ  
 • 🌎 Fully remote                                           
-• 📫 Reach me: [LinkedIn](https://www.linkedin.com) | samir.kahvedzic1@gmail.com
+• 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/samir-kahvedzic/)
 
 For Scala.js fans, check out what my team built at VTSL: https://tinyurl.com/VTSLProjects.
 
@@ -42,4 +41,5 @@ For Scala.js fans, check out what my team built at VTSL: https://tinyurl.com/VTS
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
+
 
