@@ -1,45 +1,20 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
+# Hi, I'm Samir λ
 
-[//]: # (<div style="position: absolute; top: 105px; right: 50px;">)
-[//]: # (    <img src="icons/scala-dark.svg" width="35" alt="Scala Logo">)
-[//]: # (</div>)
+Software engineer working with **Scala and functional programming**, based in the UK.
 
-<div align="center" style="margin-top:"> 
+I like code that's easy to reason about, APIs that make sense, and conversations about what makes software simpler.
 
-![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+## Explore my work
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/samirkahvedzic/)](https://www.linkedin.com/in/samir-kahvedzic/)
-[![Hackerrank Badge](https://img.shields.io/badge/-hackerrank-1da1f2?style=flat-square&labelColor=1da1f2&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/Samir_Kahvedzic?hr_r=1)](https://www.hackerrank.com/Samir_Kahvedzic?hr_r=1)
-![](https://komarev.com/ghpvc/?username=Zamirk)
-</div>
+Two earlier Scala projects that show my work with APIs, persistence, and effects:
 
-# Hi there! I'm Samir  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+- **[JSON Schema API](https://github.com/Zamirk/Snowplow-schema-validation)** — Store JSON Schemas and validate documents through a REST API, with PostgreSQL persistence and endpoint tests. Built as a technical exercise in 2021.
+- **[GitHub Alerts](https://github.com/Zamirk/github-alerts-scala-samir.kahvedzic)** — A subscription-service prototype using Cats Effect, http4s, PostgreSQL, and Kafka. Built at 47 Degrees in 2021; Slack command handling remains unfinished.
 
-• 📈 Senior Software Engineer at Xebia  
-• 📚 Working with Scala. Passionate about Functional Programming λ  
-• 🌎 Fully remote                                           
-• 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/samir-kahvedzic/)
+Older repositories trace my university work in algorithms, games, and application development.
 
-For Scala.js fans, check out what my team built at VTSL: https://tinyurl.com/VTSLProjects.
+## Let's compare notes
 
-<h2 align="left"><u>Github stats</u></h2>
+Working with Scala, designing an API, or weighing an abstraction? I'd enjoy hearing how you're approaching it.
 
-<p align="center" style="width: 100%;">
-    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/Zamirk/Zamirk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Zamirk" />
-</p>
-
-<div align="center">
-
-<!-- GitHub statistics cards temporarily hidden.
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zamirk&theme=highcontrast&hide_border=true" alt="GitHub Profile Summary">
-
-  <img src="https://streak-stats.demolab.com/?user=Zamirk&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
--->
-
-<h3> 🚀 <a href="https://github.com/Zamirk">Samir</a> | The future is ours to create <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="60px" height="30px"></h3> 
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
-
-
+[Connect on LinkedIn](https://www.linkedin.com/in/samir-kahvedzic/) · [Browse my repositories](https://github.com/Zamirk?tab=repositories)
